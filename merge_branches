@@ -1,14 +1,6 @@
-git checkout main
-Switched to branch 'main'
-Your branch is up to date with 'origin/main'.
-
-git pull origin main
-Updating fe30ea1..35e6a8f
-Fast-forward
- README.md | 1 +
- 1 file changed, 1 insertion(+)
-
-git merge bug-fix-typo
-Already up to date.
-git merge bug-fix-typo
-Already up to date.
+*   82aa922 Merge bug-fix-typo into main
+|\  
+| * 0891499 Fix README typo
+* | 9b81393 Fix simple interest script
+* | caefe84 Fix Code of Conduct
+* | 3eb1829 Add pull request evidence
